@@ -1,72 +1,182 @@
-# NeetCode Solutions — @YashvanthG
+# LeetCode Journey — @Yashvanth_G
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
-
----
-
-## What is this?
-
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+> My solutions and progress from solving **Data Structures & Algorithms problems on LeetCode**.
 
 ---
 
-## How GitHub Sync works
+## 📌 About This Repository
 
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+This repository contains my **LeetCode solutions**, organized by problem/topic as I progress through my DSA journey.
 
----
+The purpose of this repository is not just to maintain a collection of solved problems, but to document my progress in:
 
-## Repository structure
+- Problem solving
+- Data Structures & Algorithms
+- Pattern recognition
+- Algorithm optimization
+- Competitive programming
+- Technical interview preparation
 
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
-
-```
-<topic-folder>/
-  <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
-```
-
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
-```
+I primarily use **C++** for DSA and focus on understanding the underlying pattern and reasoning behind each problem.
 
 ---
 
-## Supported languages
+## 🧠 My Approach
 
-| Language | Extension |
+For important problems, I focus on understanding:
+
+1. **Brute-force approach**
+2. **Why the brute-force solution works**
+3. **The bottleneck**
+4. **The optimized pattern**
+5. **Why the optimization works**
+6. **Edge cases**
+7. **Time & space complexity**
+8. **How to recognize the same pattern in new problems**
+
+> **Solve → Understand → Recognize → Optimize → Repeat**
+
+The goal is to build **problem-solving ability**, not simply increase the number of solved problems.
+
+---
+
+## 📚 Topics
+
+The repository covers problems across the major DSA topics:
+
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Binary Search
+- Sorting
+- Linked Lists
+- Stack
+- Queue
+- Monotonic Stack
+- Heap / Priority Queue
+- Greedy Algorithms
+- Recursion
+- Backtracking
+- Trees
+- Binary Search Tree
+- Graphs
+- BFS / DFS
+- Shortest Path
+- Dynamic Programming
+- Bit Manipulation
+- Tries
+- Advanced Data Structures
+
+---
+
+## 📂 Repository Structure
+
+Solutions are organized by topic/pattern:
+
+```text
+LeetCode-Journey/
+│
+├── Arrays/
+│   ├── two-sum.cpp
+│   ├── best-time-to-buy-and-sell-stock.cpp
+│   └── ...
+│
+├── Hashing/
+│   ├── contains-duplicate.cpp
+│   └── ...
+│
+├── Two-Pointers/
+│   └── ...
+│
+├── Sliding-Window/
+│   └── ...
+│
+├── Binary-Search/
+│   └── ...
+│
+├── Linked-List/
+│   └── ...
+│
+├── Stack/
+│   └── ...
+│
+├── Heap/
+│   └── ...
+│
+├── Greedy/
+│   └── ...
+│
+├── Trees/
+│   └── ...
+│
+├── Graphs/
+│   └── ...
+│
+└── Dynamic-Programming/
+    └── ...
+```
+
+---
+
+## 💻 Primary Language
+
+| Language | Purpose |
 |---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+| **C++** | Data Structures & Algorithms |
+| Python | General programming / ML |
+| JavaScript | Web development |
+
+C++ is the primary language used for the solutions in this repository.
 
 ---
 
-## Settings
+## 🎯 Goals
 
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
+This journey is focused on becoming a stronger software engineer through consistent DSA practice.
 
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
+### Short-term
+
+- Master fundamental DSA patterns
+- Improve problem-solving speed
+- Strengthen C++ STL knowledge
+- Improve contest performance
+- Prepare for technical interviews
+
+### Long-term
+
+- Become a strong problem-solving engineer
+- Build confidence in technical interviews
+- Prepare for software engineering internships and placements
+- Develop the ability to solve unfamiliar problems efficiently
 
 ---
 
-*Generated by [NeetCode GitHub Integration](https://neetcode.io)*
+## 📈 Progress
+
+My current progress can be tracked directly through my LeetCode profile.
+
+**LeetCode:**  
+[@Yashvanth_G](https://leetcode.com/u/Yashvanth_G/?utm_source=chatgpt.com)
+
+---
+
+## 🔥 DSA Philosophy
+
+> **Don't memorize solutions. Learn the pattern.**
+
+A problem solved today should make the next similar problem easier tomorrow.
+
+---
+
+## ⭐ Repository
+
+If you find any solution useful, feel free to explore the repository and use it for your own DSA preparation.
+
+---
+
+**Yashvanth G**  
+Computer Science Engineering Student  
+Data Structures & Algorithms • Software Development • AI/ML
